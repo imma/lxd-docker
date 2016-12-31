@@ -1,0 +1,7 @@
+{
+  "require": [
+    "hcs",
+    "lxd",
+    "base"
+  ]
+}

@@ -13,7 +13,8 @@
       "ports": [
         2222
       ],
-      "image": "172.28.128.1:5000/block:lxddocker"
+      "image": "172.28.128.1:5000/block:lxd-docker",
+      "container_name": "lxd-docker_service_1"
     }
   }
 }
